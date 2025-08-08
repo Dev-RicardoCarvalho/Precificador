@@ -4,6 +4,6 @@ Projeto criado para resolver problemas de precificação de produtos e treinamne
 
 # Linguagem Utilizada
 
-[] HTML
-[] CSS
-[] Javacript
+-[] HTML
+-[] CSS
+-[] Javacript
