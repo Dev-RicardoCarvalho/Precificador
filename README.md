@@ -3,7 +3,7 @@
 
 Projeto criado para resolver problemas de precificação de produtos e treinamneto de ensinamentos acadêmicos.
 
-# Recursos e funcionalidades
+# 🔨 Recursos e funcionalidades
 
 - Cadastro de insumos
 - Cadastro de embalagens
@@ -13,7 +13,7 @@ Projeto criado para resolver problemas de precificação de produtos e treinamne
 - Cadastro de Receitas como Ingredientes
 - Precificação do Produto
 
-# Linguagem Utilizada
+# 🛠️ Linguagem Utilizada
 
 - HTML
 - CSS
