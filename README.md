@@ -1,7 +1,7 @@
   # Precify
 
 
-Projeto criado para resolver problemas de precificação de produtos e treinamneto de ensinamentos acadêmicos.
+Projeto criado para resolver problemas de precificação de produtos e treinamneto de ensinamentos acadêmicos como a importancia da criação e edição de um README completo e detalhado.
 
 # 🔨 Recursos e funcionalidades
 
